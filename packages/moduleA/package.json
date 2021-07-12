@@ -1,12 +1,12 @@
 {
   "name": "moduleA",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moduleB": "^1.0.1"
+    "moduleB": "^1.0.2"
   },
   "gitHead": "88b83a3285ca0a61994e4797ea7b0975b9d07371"
 }
