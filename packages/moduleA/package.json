@@ -1,11 +1,11 @@
 {
   "name": "moduleA",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moduleB": "^1.0.0"
+    "moduleB": "^1.0.1"
   }
 }
